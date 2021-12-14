@@ -1,4 +1,4 @@
-# ReleaseDate
+# Release Date for TV Shows, games, and movies.
 
 
 ## Story
@@ -11,4 +11,3 @@ The site is for people who would like information on a movie, tv-show and season
 ## Technologies
 HTML/CSS
 Bootstrap 4
-my friends, and I could never
